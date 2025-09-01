@@ -5,13 +5,13 @@ Pick the length, choose character sets (uppercase, lowercase, numbers, symbols),
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 <img width="1191" height="851" alt="image" src="https://github.com/user-attachments/assets/14ef52ff-d3f0-4e8a-b262-ac008dd0416d" />
 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Adjustable length (1–20) with a smooth, filled slider
 - Character set toggles: **Uppercase**, **Lowercase**, **Numbers**, **Symbols**
@@ -22,7 +22,7 @@ Pick the length, choose character sets (uppercase, lowercase, numbers, symbols),
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - **HTML5** for structure  
 - **CSS3** (custom properties, gradients, styled slider, custom checkboxes)  
@@ -30,7 +30,7 @@ Pick the length, choose character sets (uppercase, lowercase, numbers, symbols),
 
 ---
 
-🖱️ How to Use
+ How to Use
 
 Move the Password Length slider to choose length.
 
@@ -44,7 +44,7 @@ Note: If you select multiple character types, the generator guarantees at least 
 
 ---
 
-🔒 Strength Indicator
+ Strength Indicator
 
 The circular indicator reflects strength based on:
 
